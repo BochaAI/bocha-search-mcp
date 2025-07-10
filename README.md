@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/bochaai-bocha-search-mcp-badge.png)](https://mseep.ai/app/bochaai-bocha-search-mcp)
+
 # MCP Server 产品名称: 博查
 
 ![Bocha Search MCP Server](assets/bocha-logo-720x180.png)
