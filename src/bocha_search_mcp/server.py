@@ -14,7 +14,7 @@ load_dotenv()
 # Initialize FastMCP server
 server = FastMCP(
     "bocha-search-mcp",
-    prompt="""
+    instructions="""
 # Bocha Search MCP Server
                  
 Bocha is a Chinese search engine for AI, This server provides tools for searching the web using Bocha Search API.
