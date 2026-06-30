@@ -1,11 +1,13 @@
 [project]
 name = "bocha-search-mcp"
 version = "0.0.1"
-description = "A"
+description = "Bocha Search MCP Server - official release with fixed dependencies"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
- "mcp[cli]>=1.6.0",
+    "mcp[cli]>=1.6.0",
+    "httpx>=0.27.0",
+    "python-dotenv>=1.0.0",
 ]
 [[project.authors]]
 name = "kunkun"
